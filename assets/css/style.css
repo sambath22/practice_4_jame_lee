@@ -302,6 +302,7 @@ main {
 }
 .progress-container {
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .progressbar {
